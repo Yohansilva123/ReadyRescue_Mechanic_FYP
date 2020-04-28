@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982679448506",
+    "firebase_url": "https://readyrescueapp.firebaseio.com",
+    "project_id": "readyrescueapp",
+    "storage_bucket": "readyrescueapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982679448506:android:e5762c3c7322715cc30b83",
+        "android_client_info": {
+          "package_name": "com.example.readyrescueproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982679448506-gtok78ejf1hhl4kalrjng2tt5eeqgti9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readyrescueproject",
+            "certificate_hash": "3e249767dae573d593ea701265e79d0ecbceea5c"
+          }
+        },
+        {
+          "client_id": "982679448506-v6ss1ua600ofcn58gi5s22pj5v3vvofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJtta6hjQ87-uRkVMyIXXCMyD7SXBcP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982679448506-v6ss1ua600ofcn58gi5s22pj5v3vvofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
